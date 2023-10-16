@@ -4,22 +4,15 @@ function App() {
   return (
     <div className="App">
       <img src="./src/assets/logo.png" alt="" width={150} height={45} />
-      <header>
-        
-        <nav>
-          <ul>
-            <li><a href="#">CONFISSÕES</a></li>
-            <li><a href="#">CORNOS VIP</a></li>
-            <li><a href="#">TWITTER</a></li>
-            <li><a href="#">TELEGRAM</a></li>
-          </ul>
-        </nav>
-      </header>
       <main>
         <section className="hero">
           <h1>Gosta de conteudo Cuckold ?</h1>
           <p>Se você é um corno ou adora ver um video de corno acesse nosso conteudo!</p>
-          <a href="#" className="cta-button">Acesse nosso Conteudo</a>
+          <a href="https://t.me/+3rywvNQcZWVmNzhh" className="cta-button">ENTRAR NO TELEGRAM</a>
+
+          <h2>ATENÇÃO USUÁRIOS DE IPHONE / IOS</h2>
+          <p>Para conseguir ver fotos e vídeos sensíveis no Telegram, você precisa habilitar está opção. Siga o tutorial abaixo:</p>
+          <a href="https://www.youtube.com/watch?v=gG3-Yr50Sec&feature=youtu.be" className="cta-button2">VEJA O TUTORIAL</a>
         </section>
         <section className="features">
           <div className="feature">
@@ -39,11 +32,6 @@ function App() {
       <footer>
         <div className="footer-content">
           <p>&copy; 2023 Videos de Corno</p>
-          <div className="social-links">
-            <a href="#"><i className="fab fa-facebook"></i></a>
-            <a href="#"><i className="fab fa-twitter"></i></a>
-            <a href="#"><i className="fab fa-instagram"></i></a>
-          </div>
         </div>
       </footer>
     </div>
