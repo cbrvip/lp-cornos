@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <img src="./src/assets/logo.png" alt="" width={150} height={45} />
+      <img src="https://raw.githubusercontent.com/cbrvip/lp-cornos/main/src/assets/logo.png" alt="" width={150} height={45} />
       <main>
         <section className="hero">
           <h1>Gosta de conteudo Cuckold ?</h1>
