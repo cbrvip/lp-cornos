@@ -101,11 +101,12 @@ header nav ul li a {
   background-color: #fff;
   padding: 50px 0;
   text-align: center;
+  flex-direction: row;
+  display: flex;
 }
 
 .features .feature {
   width: 30%;
-  display: inline-block;
   margin: 0 2%;
   padding: 20px;
 }
@@ -144,4 +145,15 @@ footer {
 
 .social-links a:hover {
   color: #ff6600;
+}
+
+@media (max-width: 768px) {
+  .features {
+    width: 100%;
+    flex-direction: column;
+  }
+  .features .feature {
+    width: 100%;
+  }
+  
 }

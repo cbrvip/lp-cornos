@@ -12,7 +12,7 @@ function App() {
 
           <h2>ATENÇÃO USUÁRIOS DE IPHONE / IOS</h2>
           <p>Para conseguir ver fotos e vídeos sensíveis no Telegram, você precisa habilitar está opção. Siga o tutorial abaixo:</p>
-          <a href="https://www.youtube.com/watch?v=gG3-Yr50Sec&feature=youtu.be" className="cta-button2">VEJA O TUTORIAL</a>
+          <a href="https://t.me/+7_QwSYe24dU4ZmI5" className="cta-button2">VEJA O TUTORIAL</a>
         </section>
         <section className="features">
           <div className="feature">
